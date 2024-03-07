@@ -1,5 +1,5 @@
 def f1():
-    print('Hello abc')
+    print('Hello 123')
 
 def f2():
     print('Hello xyz')
